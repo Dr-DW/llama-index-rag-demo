@@ -1,4 +1,4 @@
-# Pre-Download requirements: Python + Git + CUDA installed + Ollama
+# Pre-Download requirements: Python + Git + CUDA + Ollama installed
 
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 <br />
 pip install datasets evaluate accelerate transformers <br />
