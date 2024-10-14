@@ -1,0 +1,1 @@
+Llama index accepts many files, such as text, pdf, doc, etc.
