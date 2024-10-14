@@ -8,6 +8,7 @@ pip install llama-index-core llama-index-embeddings-huggingface
 https://docs.llamaindex.ai/en/stable/understanding/agent/llamaparse/
 
 # Steps to run:
+Add your own data to solar_data folder
 ollama run llama3.1
 python .\Llama_Model.py
 
